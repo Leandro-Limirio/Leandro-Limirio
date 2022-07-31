@@ -18,6 +18,6 @@
   - 📍 GO - Goiânia
   - 🔎 GoCode - https://discord.gg/CwYJmvBT
   
-  Contato:lildeveloper8@gmail.com
+  - Contato: lildeveloper8@gmail.com
 </div>
   
