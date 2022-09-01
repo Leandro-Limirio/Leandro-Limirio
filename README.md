@@ -3,6 +3,12 @@
 
 ## Olá! Sou o LIL e tenho 14 anos, atualmente trabalho com LUA e estudo para ser um desenvolvedor fullstack.
 
+<div align="left">  
+  Im current living on: GO/Goiânia
+  Contanto: lildeveloper8@gmail.com
+</div>
+
+
 
 <div align="left">
 
@@ -18,13 +24,6 @@
   ### - 📌 &nbsp;Im Work With
   ![FiveM](https://img.shields.io/badge/-FiveM-333333?style=flat&logo=fivem&logoColor=ea7600)&nbsp;
 </div>
-
-<div>  
-  - Im current living on: 📍 GO/Goiânia
-  
- - Contato: lildeveloper8@gmail.com
-</div>
-
 
 
 
