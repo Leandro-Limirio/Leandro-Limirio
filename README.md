@@ -4,7 +4,7 @@
 ## Olá! Sou o LIL e tenho 14 anos, atualmente trabalho com LUA e estudo para ser um desenvolvedor fullstack.
 
 
-<div align="center">
+<div align="left">
 
   ### - 🛠 &nbsp;Skills
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)&nbsp;
