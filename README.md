@@ -1,14 +1,7 @@
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-
-## Olá! Sou o LIL e tenho 14 anos, atualmente trabalho com LUA e estudo para ser um desenvolvedor fullstack.
-
-<div align="left">  
-  Im current living on: GO/Goiânia
-  Contanto: lildeveloper8@gmail.com
-</div>
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Be+Welcome+to+my+profile!;Meu+Nome+é+Leandro+"LIL";Eu+moro+em+Goiânia,+Goiás;Estou+Estudando+Front-End;Exploro+novas+linguages;e;Aprendo+mais+sobre+elas)](https://git.io/typing-svg)
 
 <div align="left">
 
