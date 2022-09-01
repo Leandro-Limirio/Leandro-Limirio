@@ -15,11 +15,11 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
   
-  ### - 📌 &nbsp;Others
+  ### - 📌 &nbsp;Im Work With
   ![FiveM](https://img.shields.io/badge/-FiveM-333333?style=flat&logo=fivem&logoColor=ea7600)&nbsp;
 </div>
 
-<div align="center">  
+<div style="inline-block">  
   - Im current living on: 📍 GO/Goiânia
   - Contato: lildeveloper8@gmail.com
 </div>
