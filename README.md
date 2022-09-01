@@ -22,7 +22,6 @@
 <div>  
   - Im current living on: 📍 GO/Goiânia
   
-  
   - Contato: lildeveloper8@gmail.com
 </div>
 
