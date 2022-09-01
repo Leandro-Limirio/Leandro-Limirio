@@ -19,8 +19,10 @@
   ![FiveM](https://img.shields.io/badge/-FiveM-333333?style=flat&logo=fivem&logoColor=ea7600)&nbsp;
 </div>
 
-<div style="inline-block">  
+<div>  
   - Im current living on: 📍 GO/Goiânia
+  
+  
   - Contato: lildeveloper8@gmail.com
 </div>
 
