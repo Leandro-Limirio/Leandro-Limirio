@@ -1,6 +1,4 @@
 ### Olá, Eu sou o LIL!
-
-[![OneSource](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MpskC7gQ)
   
 <br />
 
