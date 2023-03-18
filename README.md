@@ -1,20 +1,28 @@
+### Olá, Eu sou o LIL!
 
-
-<div align="left">
-
-  ### - 🛠 &nbsp;Skills
-  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)&nbsp;
-      
-  ### - 🛠 &nbsp;Studing
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+[![OneSource](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MpskC7gQ)
   
-  ### - 📌 &nbsp;Im Work With
-  ![FiveM](https://img.shields.io/badge/-FiveM-333333?style=flat&logo=fivem&logoColor=ea7600)&nbsp;
-</div>
+<br />
 
+## Linguagens que eu trabalho:
 
+<table style="overflow:hidden">
+  <tr>
+    <td align="center" width="96">
+      <a href="#javascript">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#lua">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48" height="48" alt="Lua" />
+      </a>
+      <br>Lua
+    </td>
+  </tr>
+</table>
 
-  
+<br />
+ 
+![Snake animation](https://github.com/combo0001/combo0001/blob/output/github-contribution-grid-snake.svg)
