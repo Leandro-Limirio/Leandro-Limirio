@@ -2,7 +2,7 @@
   
 <br />
 
-## Linguagens que eu trabalho:
+## Stacks:
 
 <table style="overflow:hidden">
   <tr>
