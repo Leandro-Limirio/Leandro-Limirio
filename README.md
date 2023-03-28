@@ -25,7 +25,7 @@ Olá me chamo Leandro Limirio mais conhecido como LIL e sou desenvolvedor Back-E
 
 <br />
 
-<p align="center">
+<p align="left">
   <img width="100" height="27" src="https://komarev.com/ghpvc/?username=LIL&color=blue&style=flat-square&label=Views">
 </p>
  
