@@ -14,4 +14,3 @@ Olá me chamo Leandro Limirio mais conhecido como LIL e sou desenvolvedor Back-E
   <img width="100" height="27" src="https://komarev.com/ghpvc/?username=LIL&color=blue&style=flat-square&label=Views">
 </p>
  
-![Snake animation](https://github.com/combo0001/combo0001/blob/output/github-contribution-grid-snake.svg)
