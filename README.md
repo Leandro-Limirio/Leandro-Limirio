@@ -1,5 +1,6 @@
 ## 👀 Sobre mim
-Meu nome é Leandro Limirio mais conhecido como LIL e tenho 16 anos, possuo habilidades em desenvolvimento back-end com Lua,Javascript e MySQL.Tenho vasta experiência em desenvolvimento para Fivem,sobretudo a documentação,Funções Nativas e Game References usando Lua
+Meu nome é Leandro Limirio mais conhecido como LIL e tenho 16 anos, possuo habilidades em desenvolvimento back-end com Lua,Javascript e MySQL.
+Tenho vasta experiência em desenvolvimento para Fivem,sobretudo a documentação,Funções Nativas e Game References usando Lua ou Javascript.
 
 ## Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/notlimirio/)
@@ -11,7 +12,3 @@ Meu nome é Leandro Limirio mais conhecido como LIL e tenho 16 anos, possuo habi
 
 
 
-<p align="left">
-  <img width="100" height="27" src="https://komarev.com/ghpvc/?username=LIL&color=blue&style=flat-square&label=Views">
-</p>
- 
