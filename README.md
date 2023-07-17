@@ -1,8 +1,8 @@
-## 👀 Sobre mim
+## 👀 About Me
 Meu nome é Leandro Limirio mais conhecido como LIL, possuo habilidades em desenvolvimento back-end com Lua,Javascript e MySQL.
 Tenho vasta experiência em desenvolvimento para Fivem,sobretudo a documentação,Funções Nativas e Game References usando Lua ou Javascript.
 
-## Redes Sociais
+## 📷 Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/notlimirio/)
 
 ## 💻 Tech Stacks
