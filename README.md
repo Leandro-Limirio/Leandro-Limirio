@@ -5,7 +5,7 @@ Tenho vasta experiência em desenvolvimento para Fivem,sobretudo a documentaçã
 ## 📷 Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/notlimirio/)
 
-## 💻 Languages and Tools
+## 💻 Stacks
 <p align="left">
   <a href="http://www.lua.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
