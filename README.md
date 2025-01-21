@@ -1,5 +1,5 @@
 ## 👀 About Me
-Olá! Meu nome é Leandro Limirio, tenho 16 anos e sou desenvolvedor back-end com experiência em Lua, JavaScript, TypeScript e MySQL. Minha especialidade é o desenvolvimento para FiveM, onde possuo vasta experiência com documentação, funções nativas e Game References, utilizando Lua ou JavaScript para criar soluções personalizadas e eficientes.
+Olá! Meu nome é Leandro Limirio, tenho 17 anos e sou desenvolvedor back-end com experiência em Lua, JavaScript, TypeScript e MySQL. Minha especialidade é o desenvolvimento para FiveM, onde possuo vasta experiência com documentação, funções nativas e Game References, utilizando Lua ou JavaScript para criar soluções personalizadas e eficientes.
 
 Sempre busco aprimorar minhas habilidades e desenvolver projetos que combinem inovação e funcionalidade. Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou troca de ideias!
 
